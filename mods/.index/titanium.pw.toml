@@ -1,0 +1,13 @@
+filename = 'titanium-1.19.2-3.7.3-27.jar'
+name = 'Titanium'
+side = 'both'
+
+[download]
+hash = '83bc6e0802e7857873cfa685fb2fba9fc50e7d8db3547648a080b22d9cb35349efe1cd70481c3f41e2094aca34d623c0f1decda7f6fbb47c874c3c8eeea310c0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1Ro7m06l/versions/C671K5PG/titanium-1.19.2-3.7.3-27.jar'
+
+[update.modrinth]
+mod-id = '1Ro7m06l'
+version = 'C671K5PG'

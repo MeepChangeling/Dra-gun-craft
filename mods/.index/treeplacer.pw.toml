@@ -1,0 +1,13 @@
+filename = 'treeplacer-1.1.0.jar'
+name = 'Treeplacer'
+side = 'both'
+
+[download]
+hash = '7634688c09316f6598b6e44e3c113708fa037a846f99e0b904a111a9bfd0ae0f84386ec16bfdcab39f32983140f9f62c232a11ad12230cd0f93b9a76dd45a061'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4im8hCxA/versions/wq7rhlUB/treeplacer-1.1.0.jar'
+
+[update.modrinth]
+mod-id = '4im8hCxA'
+version = 'wq7rhlUB'

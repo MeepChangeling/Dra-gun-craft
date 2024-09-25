@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "new_120_content:stripped_cherry_log"
+    },
+    {
+      "item": "new_120_content:stripped_cherry_log"
+    },
+    {
+      "item": "new_120_content:stripped_cherry_log"
+    },
+    {
+      "item": "new_120_content:stripped_cherry_log"
+    },
+    {
+      "item": "new_120_content:stripped_cherry_log"
+    },
+    {
+      "item": "new_120_content:stripped_cherry_log"
+    },
+    {
+      "item": "new_120_content:stripped_cherry_log"
+    },
+    {
+      "item": "new_120_content:stripped_cherry_log"
+    },
+    {
+      "item": "new_120_content:stripped_cherry_log"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:stripped_cherry_new_120_content_kitchen_wall_counter"
+  }
+}

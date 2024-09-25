@@ -1,0 +1,8 @@
+
+###############################
+# Loot properties
+###############################
+[loot]
+	# Enable/Disable global loot modifiers that injects Magic Treasures loot into vanilla loot tables.
+	enableVanillaLootModifiers = true
+

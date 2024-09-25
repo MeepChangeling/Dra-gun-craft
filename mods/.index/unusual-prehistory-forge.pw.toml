@@ -1,0 +1,13 @@
+filename = 'unusualprehistory-1.4.2.jar'
+name = 'Unusual Prehistory [FORGE]'
+side = 'both'
+
+[download]
+hash = '04006b867a6e4e1a4b12b00ee74089ebc6ce29fc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4798854
+project-id = 696283

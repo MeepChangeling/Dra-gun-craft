@@ -1,0 +1,13 @@
+filename = 'new_120_content-1.19.2-2.0.jar'
+name = 'Trails&Tales Backport (1.20 Backport)'
+side = 'both'
+
+[download]
+hash = 'e3808a6bd28638d2ba7a61b4557b79ca2755a1b873493ad11ce4d0771115e0daaee036761620b466f9351e9a05b40d3dc5e442e28fa205f0a03109b218ba4134'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JFytIcIw/versions/lbGWIs0p/new_120_content-1.19.2-2.0.jar'
+
+[update.modrinth]
+mod-id = 'JFytIcIw'
+version = 'lbGWIs0p'

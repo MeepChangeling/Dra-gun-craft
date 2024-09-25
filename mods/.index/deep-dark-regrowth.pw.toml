@@ -1,0 +1,13 @@
+filename = 'Deep Dark Regrowth 1.2.5.0.jar'
+name = 'Deep Dark: Regrowth'
+side = 'both'
+
+[download]
+hash = '6d14181a90b6269f885ad55866e60459938d01ba'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5211065
+project-id = 827619

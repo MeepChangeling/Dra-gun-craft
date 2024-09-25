@@ -1,0 +1,13 @@
+filename = 'illager_additions-1.19-0.1.13.5-fixed.jar'
+name = 'Illager Additions'
+side = 'both'
+
+[download]
+hash = 'c0ff2b3a3c898b90ee33d6801acb66db251a93d4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5548003
+project-id = 682835

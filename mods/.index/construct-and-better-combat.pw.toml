@@ -1,0 +1,13 @@
+filename = 'construct-and-better-combat-1.jar'
+name = 'Construct and Better Combat'
+side = 'client'
+
+[download]
+hash = '7f9c109a08d88c25e903b8a89781fddf18d342636c2b7c151f6fba76f364d71ba95cc5e302cd86d3117af6a8f2429f092117859341c4cd62cdef7abd8df500e8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EHyfipTl/versions/zpiqngK6/construct-and-better-combat-1.jar'
+
+[update.modrinth]
+mod-id = 'EHyfipTl'
+version = 'zpiqngK6'

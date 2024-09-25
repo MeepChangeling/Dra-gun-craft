@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "new_120_content:cherry_log"
+    },
+    {
+      "item": "new_120_content:cherry_log"
+    },
+    {
+      "item": "new_120_content:cherry_log"
+    },
+    {
+      "item": "new_120_content:cherry_log"
+    },
+    {
+      "item": "new_120_content:cherry_log"
+    },
+    {
+      "item": "new_120_content:cherry_planks"
+    },
+    {
+      "item": "new_120_content:cherry_planks"
+    },
+    {
+      "item": "new_120_content:cherry_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:cherry_new_120_content_kitchen_drawer"
+  }
+}

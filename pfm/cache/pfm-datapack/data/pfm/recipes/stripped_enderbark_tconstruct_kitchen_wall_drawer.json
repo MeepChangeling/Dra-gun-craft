@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "tconstruct:stripped_enderbark_log"
+    },
+    {
+      "item": "tconstruct:stripped_enderbark_log"
+    },
+    {
+      "item": "tconstruct:stripped_enderbark_log"
+    },
+    {
+      "item": "tconstruct:stripped_enderbark_log"
+    },
+    {
+      "item": "tconstruct:stripped_enderbark_log"
+    },
+    {
+      "item": "tconstruct:stripped_enderbark_log"
+    },
+    {
+      "item": "tconstruct:stripped_enderbark_log"
+    },
+    {
+      "item": "tconstruct:stripped_enderbark_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_enderbark_tconstruct_kitchen_wall_drawer"
+  }
+}

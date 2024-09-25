@@ -1,0 +1,13 @@
+filename = 'mcw-windows-2.3.0-mc1.19.2forge.jar'
+name = "Macaw's Windows"
+side = 'both'
+
+[download]
+hash = 'c155e01a79bdc7ef6b6d9a5999e314302cf9abe0a9a487ece7596643c18e3cbb116db144d312bd54163a179383d70be8397de9ed2dd78593fb05e10f82cabf1e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/C7I0BCni/versions/vi3R8RwL/mcw-windows-2.3.0-mc1.19.2forge.jar'
+
+[update.modrinth]
+mod-id = 'C7I0BCni'
+version = 'vi3R8RwL'

@@ -1,0 +1,13 @@
+filename = 'origins-accessbilities-1.19.2-1.1.1.jar'
+name = 'Origins: Accessibilities'
+side = 'both'
+
+[download]
+hash = '283d07a84b54e81aacbd785c7c76d91629cfb3347ebe5764998efa5c9f3c3b349ade38d711e384177d4dddfa7d194fc12bdcf0d67f4cc34ac92f375c800734e9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/O5i3hY4L/versions/zgYGPizE/origins-accessbilities-1.19.2-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'O5i3hY4L'
+version = 'zgYGPizE'

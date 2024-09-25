@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_planks"
+    },
+    {
+      "item": "tconstruct:enderbark_planks"
+    },
+    {
+      "item": "tconstruct:enderbark_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:enderbark_tconstruct_kitchen_counter"
+  }
+}

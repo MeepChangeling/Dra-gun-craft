@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d7d2c805059349d69318d784726d0bda"
+	name: "Meep_Changeling"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_planks"
+    },
+    {
+      "item": "tconstruct:enderbark_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:enderbark_tconstruct_kitchen_sink"
+  }
+}

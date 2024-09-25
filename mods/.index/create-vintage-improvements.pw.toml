@@ -1,0 +1,13 @@
+filename = 'vintageimprovements-1.19.2-0.2.0.3.jar'
+name = 'Create: Vintage Improvements'
+side = 'both'
+
+[download]
+hash = 'db882144884a2b1f44790e1d2577954f194c8674bf303cc485074de330dafb0aa92a0cd7f329bfc6e015a8a7a257f634e34aaea1fac6c147960837a5240e2cb7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/S27aYArf/versions/nXivVakq/vintageimprovements-1.19.2-0.2.0.3.jar'
+
+[update.modrinth]
+mod-id = 'S27aYArf'
+version = 'nXivVakq'

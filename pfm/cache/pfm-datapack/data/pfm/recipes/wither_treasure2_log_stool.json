@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "treasure2:wither_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:wither_treasure2_log_stool"
+  }
+}

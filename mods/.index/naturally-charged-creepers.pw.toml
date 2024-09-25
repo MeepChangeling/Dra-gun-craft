@@ -1,0 +1,13 @@
+filename = 'naturallychargedcreepers-1.19.2-3.4.jar'
+name = 'Naturally Charged Creepers'
+side = 'server'
+
+[download]
+hash = '6d0240709997db83d9ded923ff24e34946d974a5dfc871f827d36d5475ac969d5526d7db9215ec23d5839878da71b2cb8898f1e3f231756708a2856496d4e0a4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/j5LquiGA/versions/pcAj6rJ2/naturallychargedcreepers-1.19.2-3.4.jar'
+
+[update.modrinth]
+mod-id = 'j5LquiGA'
+version = 'pcAj6rJ2'

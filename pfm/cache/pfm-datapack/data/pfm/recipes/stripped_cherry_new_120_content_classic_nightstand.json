@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "new_120_content:cherry_planks"
+    },
+    {
+      "item": "new_120_content:cherry_planks"
+    },
+    {
+      "item": "new_120_content:cherry_planks"
+    },
+    {
+      "item": "new_120_content:cherry_planks"
+    },
+    {
+      "item": "new_120_content:cherry_planks"
+    },
+    {
+      "item": "new_120_content:cherry_planks"
+    },
+    {
+      "item": "new_120_content:stripped_cherry_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_cherry_new_120_content_classic_nightstand"
+  }
+}

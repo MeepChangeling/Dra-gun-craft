@@ -1,0 +1,13 @@
+filename = 'dragonsurvival_compatibility-1.19.2-1.2.0-all.jar'
+name = 'Dragon Survival Compatibility'
+side = 'both'
+
+[download]
+hash = '8bfd2ed69047eb6fb0c60a3ffea28f7001b1681fb714f6c030bcf8926136fa2a731e399ed4620752fdf8e965506a730e7109494ee68732409954746d12b8e3a1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AZO3n4Iz/versions/lgpBdiKZ/dragonsurvival_compatibility-1.19.2-1.2.0-all.jar'
+
+[update.modrinth]
+mod-id = 'AZO3n4Iz'
+version = 'lgpBdiKZ'

@@ -1,0 +1,22 @@
+[07:28:17.922][INFO]: Successfully injected RecipeFS file system
+[07:28:18.008][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[07:28:18.016][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[07:28:18.020][INFO]: Successfully identified and loaded plugin refurbished_furniture:plugin
+[07:28:19.491][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[07:28:19.493][INFO]: - 'crafttweaker' at version '10.1.55'
+[07:28:19.493][INFO]: - 'immersiveengineering' at version '1.19.2-9.2.4-170'
+[07:28:19.493][INFO]: - 'immersivepetroleum' at version '4.2.0-29'
+[07:28:19.493][INFO]: - 'pneumaticcraft' at version '1.19.2-4.3.15-52'
+[07:28:19.493][INFO]: - 'refurbished_furniture' at version '1.0.6'
+[07:28:36.588][INFO]: Started loading scripts for loader 'initialize'
+[07:28:37.026][INFO]: Compiling and executing scripts
+[07:28:37.074][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[07:28:37.193][INFO]: Execution for loader 'initialize' completed successfully
+[07:29:35.984][INFO]: Started loading scripts for loader 'tags'
+[07:29:36.002][INFO]: Compiling and executing scripts
+[07:29:36.015][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[07:29:36.024][INFO]: Execution for loader 'tags' completed successfully
+[07:29:39.243][INFO]: Started loading scripts for loader 'crafttweaker'
+[07:29:39.258][INFO]: Compiling and executing scripts
+[07:29:39.503][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[07:29:39.511][INFO]: Execution for loader 'crafttweaker' completed successfully

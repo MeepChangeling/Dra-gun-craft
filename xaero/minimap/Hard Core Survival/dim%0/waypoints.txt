@@ -1,0 +1,6 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Home:H:33:141:-972:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Goauld Temple:G:-360:111:-469:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:Goauld Temple:G:-856:83:-363:4:false:0:gui.xaero_default:false:0:0:false

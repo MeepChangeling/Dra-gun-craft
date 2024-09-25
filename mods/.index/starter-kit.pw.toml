@@ -1,0 +1,13 @@
+filename = 'starterkit-1.19.2-7.0.jar'
+name = 'Starter Kit'
+side = 'both'
+
+[download]
+hash = 'dce419c8cf18d7229b4a16549b2ec5a9f796155c44b8d8fb72776ae239af16f0caedce62497f956e060e96e5b63c065f416b99c067dd4926ddddf4ec5bf30389'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6L3ydNi8/versions/nDDhwn2h/starterkit-1.19.2-7.0.jar'
+
+[update.modrinth]
+mod-id = '6L3ydNi8'
+version = 'nDDhwn2h'

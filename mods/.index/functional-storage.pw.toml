@@ -1,0 +1,13 @@
+filename = 'functionalstorage-1.19.2-1.1.4.jar'
+name = 'Functional Storage'
+side = 'both'
+
+[download]
+hash = '13472d5a931945cc4e1e1e2150ed85e8ac58d267ed0bded14fac1b72c78e0d8cbda9589bbfadcb10b1074f58a7799d01dcdd237b42dfad1422cf6147e6fe43d2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cO40ZIg3/versions/JyXiAfsS/functionalstorage-1.19.2-1.1.4.jar'
+
+[update.modrinth]
+mod-id = 'cO40ZIg3'
+version = 'JyXiAfsS'

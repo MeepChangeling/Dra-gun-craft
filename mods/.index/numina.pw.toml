@@ -1,0 +1,13 @@
+filename = 'Numina-1.19.2-2.3.13.jar'
+name = 'Numina'
+side = 'both'
+
+[download]
+hash = 'f0fe3000dad9007191bb9334dd12bdb05ec56065'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5363731
+project-id = 235440

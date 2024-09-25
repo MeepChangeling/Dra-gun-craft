@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "tconstruct:enderbark_planks"
+    },
+    {
+      "item": "tconstruct:enderbark_planks"
+    },
+    {
+      "item": "tconstruct:enderbark_planks"
+    },
+    {
+      "item": "minecraft:yellow_bed"
+    },
+    {
+      "item": "tconstruct:enderbark_fence"
+    },
+    {
+      "item": "tconstruct:enderbark_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:enderbark_tconstruct_yellow_classic_bed"
+  }
+}

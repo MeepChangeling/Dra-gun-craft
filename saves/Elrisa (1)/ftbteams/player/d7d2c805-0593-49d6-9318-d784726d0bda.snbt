@@ -1,0 +1,17 @@
+{
+	id: "d7d2c805-0593-49d6-9318-d784726d0bda"
+	type: "player"
+	player_name: "Meep_Changeling"
+	ranks: {
+		d7d2c805-0593-49d6-9318-d784726d0bda: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Meep_Changeling"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

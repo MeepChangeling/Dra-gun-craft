@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "tconstruct:enderbark_planks"
+    },
+    {
+      "item": "tconstruct:enderbark_planks"
+    },
+    {
+      "item": "tconstruct:enderbark_planks"
+    },
+    {
+      "item": "tconstruct:enderbark_planks"
+    },
+    {
+      "item": "tconstruct:stripped_enderbark_log"
+    },
+    {
+      "item": "tconstruct:stripped_enderbark_log"
+    },
+    {
+      "item": "tconstruct:stripped_enderbark_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_enderbark_tconstruct_table_classic"
+  }
+}

@@ -1,0 +1,16 @@
+//waypoints config options
+usingMultiworldDetection:false
+ignoreServerLevelId:false
+teleportationEnabled:true
+usingDefaultTeleportCommand:true
+sortType:NONE
+sortReversed:false
+
+//other config options
+ignoreHeightmaps:false
+
+//dimension types (DO NOT EDIT)
+dimensionType:sgjourney$abydos:sgjourney$abydos
+dimensionType:sgjourney$chulak:sgjourney$chulak
+dimensionType:minecraft$overworld:minecraft$overworld
+//server waypoints

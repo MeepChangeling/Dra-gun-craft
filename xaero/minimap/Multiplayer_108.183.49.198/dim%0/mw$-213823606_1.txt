@@ -1,0 +1,8 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Base:B:18210:67:19258:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Monyment / Sunken City:M:19130:62:19406:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Stargate:S:21042:37:19303:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Jagurakmur:J:20941:72:19318:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Azurarkmed:A:18522:71:18673:6:false:0:gui.xaero_default:false:0:0:false

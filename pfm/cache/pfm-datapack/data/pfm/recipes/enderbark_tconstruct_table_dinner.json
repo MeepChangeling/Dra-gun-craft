@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_planks"
+    },
+    {
+      "item": "tconstruct:enderbark_planks"
+    },
+    {
+      "item": "tconstruct:enderbark_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:enderbark_tconstruct_table_dinner"
+  }
+}

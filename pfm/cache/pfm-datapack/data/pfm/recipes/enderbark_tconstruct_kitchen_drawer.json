@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_log"
+    },
+    {
+      "item": "tconstruct:enderbark_planks"
+    },
+    {
+      "item": "tconstruct:enderbark_planks"
+    },
+    {
+      "item": "tconstruct:enderbark_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:enderbark_tconstruct_kitchen_drawer"
+  }
+}
